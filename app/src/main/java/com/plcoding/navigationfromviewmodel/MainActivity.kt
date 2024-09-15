@@ -20,7 +20,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             NavigationFromViewModelTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    
+
                 }
             }
         }
